@@ -1,7 +1,7 @@
 name: DanRoss
 favicon: null
-layout_spectrum: 0.5388869480229914
-typography_spectrum: 0.9639272503554821
+layout_spectrum: 0.2434
+typography_spectrum: 0.72019
 title: Dan Ross
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#ab943c'
+    - '#000000'
+    - '#272727'
+    - '#b0b0b0'
+    - '#f4f4f4'
   brandStrength: 0.7318357629701495
-  lightness: 0.93954585515894
-  saturation: 0.5039519760757685
-  rhythmicContrast: 0.6985198585316539
+  lightness: 0.5
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
