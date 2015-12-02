@@ -1,0 +1,28 @@
+name: DanRoss
+favicon: null
+layout_spectrum: 0.5388869480229914
+typography_spectrum: 0.9639272503554821
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7318357629701495
+  lightness: 0.93954585515894
+  saturation: 0.5039519760757685
+  rhythmicContrast: 0.6985198585316539
+purpose: []
